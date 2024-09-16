@@ -1,0 +1,33 @@
+.header {
+  background-color: #0085FF;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 160px;
+}
+
+.header .logo {
+  height: 100%;
+}
+
+.header nav {
+  display: flex;
+  gap: 20px;
+}
+
+.header .menu {
+  color: #fff;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.header .icons {
+  display: flex;
+  gap: 20px;
+}
+
+.header .icon {
+  height: 34px;
+}
