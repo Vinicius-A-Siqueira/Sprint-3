@@ -1,0 +1,144 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="76717CB8-159A-5A92-591E-704BA40E2259" name="TBL_OCORRENCIA">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:57:33 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_OCORRENCIA" id="2EBC8AB0-2E84-C8C5-5537-844B43651EF5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:57:38 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,9,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TIPO" id="9AC5EC2F-C39A-BA9C-6363-1338F3B8897B">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:57:47 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DATA_INICIO" id="EB7C1D58-0E1C-CF3E-FD00-93472D2AA22A">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:58:22 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DATA_FINAL" id="4B6FF4FF-DCFE-082F-88BE-83EE968A7DEC">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:58:30 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ORCAMENTO" id="2E18E72F-8BB5-2B80-6F15-620EC28C80CC">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:58:37 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>6</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,6,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_VEICULO" id="0144F554-5C92-8523-BC3C-A9D777B49C50">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:59:05 UTC</createdTime>
+<generatorID>0FFCC673-70A4-DEA6-E16F-AAA16EE4B656</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<referedAttribute>3AB642E1-BD83-F95C-4C58-CDAB0FB94647</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_USUARIO" id="E2843DE4-3DA4-B2BA-AB59-43923679D3E5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:59:05 UTC</createdTime>
+<generatorID>0FFCC673-70A4-DEA6-E16F-AAA16EE4B656</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<referedAttribute>6AD28784-342F-80D6-EF9B-5B973B398D17</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_MECANICA" id="30968D1E-203C-2587-F5A1-C69ADB5124C6">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:02:09 UTC</createdTime>
+<generatorID>265163D1-A71B-1E04-1E2B-8C3E58CEC0F0</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<referedAttribute>432796C2-0373-0E2D-BD7E-26E59FB68187</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B11E3298-1D7F-74A9-5F5A-57715B330B31" name="TBL_OCORRENCIA PK">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:59:05 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>0144F554-5C92-8523-BC3C-A9D777B49C50</attributeRef>
+<attributeRef>E2843DE4-3DA4-B2BA-AB59-43923679D3E5</attributeRef>
+<attributeRef>30968D1E-203C-2587-F5A1-C69ADB5124C6</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

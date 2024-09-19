@@ -1,0 +1,21 @@
+Integrantes:
+
+-Gabriel Camargo Ravanhani- RM557879
+
+-Kauan Felipe de Souza- RM557954
+
+-Vinivius Alves Siqueira- RM551939
+
+
+
+Descrição do Data Set:
+
+
+	Criamos esse Data Set com o objetivo de avaliar o preço do plano dos serviços que o cliente escolher, ter uma base do custo 
+que teriamos caso o veículo necessite de alguma manutenção e encaminhar os veículos para a oficina especializada para cada
+marca de carro.
+
+	Nosso banco de dados possui uma variedade de informações referentes a carros já usados, além de colocarmos 8 marcas diferentes,
+cada marca tendo diferentes modelos, além de usarmos carros tanto com quilometragem baixa e alta, utilizamos também carros 
+manuais e automáticos e com diferentes potências.  
+

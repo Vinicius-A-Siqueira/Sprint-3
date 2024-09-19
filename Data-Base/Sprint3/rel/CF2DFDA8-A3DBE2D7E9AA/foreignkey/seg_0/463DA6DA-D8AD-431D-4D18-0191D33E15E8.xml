@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="463DA6DA-D8AD-431D-4D18-0191D33E15E8" containerWithKeyObject="2A11919A-A0E9-DD21-A9A3-E6874D5D07E5" localFKIndex="352F2B50-E03E-98BC-2799-921F05EE980E" name="TBL_ENDERECO__MECANICA_TBL_MECANICA_FK">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>16A07C6B-9BC1-6938-70B0-82A97AE356D6</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<referredTableLongName>TBL_MECANICA</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>BB8D6CE1-F5E9-D704-AF28-95441EA88EDC</referredTableID>
+<keyObject>F0323C9A-B021-6104-B187-F937303B934C</keyObject>
+<referredKeyID>F0323C9A-B021-6104-B187-F937303B934C</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>ID_MECANICA</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

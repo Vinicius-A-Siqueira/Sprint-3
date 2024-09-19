@@ -1,0 +1,127 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="0FCDEA21-D4FC-78A8-DD46-5AD8259FFD11" name="TBL_TELEFONE">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:01 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="ID_TELEFONE" id="58F9094F-516C-1003-D207-BE5632A8839A">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:09 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,9,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_DDI" id="6E46BC7D-BB18-6699-C7A2-E8C92DDE15CD">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:22 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_DDD" id="63496A63-EF5B-3F5A-7281-FCE8BC1E85B8">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:37 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>3</dataTypePrecision>
+<ownDataTypeParameters>,3,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_TELEFONE" id="E8C750FC-AD25-3ED6-72F1-B725C0E22B13">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:49 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>10</dataTypePrecision>
+<ownDataTypeParameters>,10,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TP_TELEFONE" id="858D71AB-47BA-42AA-F632-0C90E82187D5">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:56:10 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ST_TELEFONE" id="12351B3C-117B-1FC8-7151-81A35C1781AC">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:56:37 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>1</dataTypeSize>
+<ownDataTypeParameters>1,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ID_USUARIO" id="F18A3D05-5A88-DDA8-22A1-2F5ADAE32B3C">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:57:15 UTC</createdTime>
+<generatorID>507BD8F3-7D91-BBDE-6158-2070C1A7D8F1</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<referedAttribute>C8036AB7-0698-0008-0222-DD670B3159ED</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="6F94F3F2-E71C-E0A8-EF93-EE4539437172" name="TBL_TELEFONE PK">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 13:55:21 UTC</createdTime>
+<ownerDesignName>Sprint3</ownerDesignName>
+<engineerTo>
+<item key="CF2DFDA8-7C79-E52A-8AED-A3DBE2D7E9AA" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>58F9094F-516C-1003-D207-BE5632A8839A</attributeRef>
+<attributeRef>F18A3D05-5A88-DDA8-22A1-2F5ADAE32B3C</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

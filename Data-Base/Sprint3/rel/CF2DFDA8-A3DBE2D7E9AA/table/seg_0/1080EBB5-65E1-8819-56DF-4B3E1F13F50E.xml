@@ -1,0 +1,125 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1080EBB5-65E1-8819-56DF-4B3E1F13F50E" name="TBL_VEICULO">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>C2FF3116-3F2D-8455-D9F6-A26B34350F98</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ID_VEICULO" id="069F568A-DC59-8556-F0A6-FB90BD7332F6">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>3AB642E1-BD83-F95C-4C58-CDAB0FB94647</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,9,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="PLACA" id="9C491BB1-2CB6-B755-0954-82A06EEDDB10">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>05C92AC8-6CA5-5112-8977-3EA32BE07D7F</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>7</dataTypeSize>
+<ownDataTypeParameters>7,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MODELO" id="1EF3B5FC-F525-D465-F49E-37F780EC1E5E">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>12DAD718-56B5-67A2-14C8-D8D608D541A9</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DATA_FABRICACAO" id="6977D3E0-A4F2-65D2-6255-6209E38AACE6">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>3B40CFC9-AE0E-DF4E-88B1-1B019D150C1E</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="COR" id="9B6D1F84-9EAF-9DB3-A5BA-1C049977D65D">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>98FBA95A-D994-DDEE-D841-5131CF54C01A</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TIPO" id="592D0F39-5780-42C0-FF22-D4EF2CBEA8AD">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>605EE8E8-21E6-5952-FA82-03C852726313</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TBL_USUARIOv1_ID_USUARIO" id="315DB818-38D6-FF23-D806-99AFB961F7DC">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>6AD28784-342F-80D6-EF9B-5B973B398D17</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>9</dataTypePrecision>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="A1826D7C-ECEC-09B9-BED7-EF7428DBAA12" referredColumn="6BA4FF0C-6288-8E43-DEDE-D07F7F8625BE"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="C1E80FFC-8719-3461-A832-560B4CB893BA" name="TBL_VEICULO_PK">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>E6B3D5F0-2AC6-1C85-ECAF-0FE0C415037B</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="069F568A-DC59-8556-F0A6-FB90BD7332F6"/>
+<colUsage columnID="315DB818-38D6-FF23-D806-99AFB961F7DC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="24F94FB6-CAD2-42D5-703E-7A4D3106099E" name="TBL_VEICULO_TBL_USUARIOv1_FK">
+<createdBy>labsfiap</createdBy>
+<createdTime>2024-09-12 14:04:23 UTC</createdTime>
+<generatorID>35A7591D-ABC0-A3A1-8FA6-1D43FC6C3ABB</generatorID>
+<ownerDesignName>Sprint3</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="315DB818-38D6-FF23-D806-99AFB961F7DC"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

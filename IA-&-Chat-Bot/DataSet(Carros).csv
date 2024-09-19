@@ -1,0 +1,101 @@
+Marca;Modelo;Ano;Preço(R$);Transmissão;Rodagem(KM);TipoCombustivel;Consumo;Potência
+Audi;A1;2017;R$ 95.375,00;Manual;25323,03;Gasolina;23,54;1.4
+Audi;A6;2016;R$ 125.895,00;Automatico;58263,08;Diesel;27,28;2.0
+Audi;A1;2016;R$ 83.930,00;Manual;48193,41;Gasolina;23,54;1.4
+Audi;A4;2017;R$ 128.184,00;Automatico;41765,7;Diesel;28,6;2.0
+Audi;A3;2019;R$ 131.999,00;Manual;3215,47;Gasolina;21,08;1.0
+Audi;A1;2016;R$ 106.057,00;Automatico;51917,44;Gasolina;25,03;1.4
+Audi;A6;2016;R$ 101.097,50;Automatico;123578,3;Diesel;26,09;2.0
+Audi;A4;2016;R$ 89.652,50;Manual;120998,5;Diesel;30;2.0
+Audi;A3;2015;R$ 77.826,00;Manual;74210,7;Gasolina;25,54;1.4
+Audi;A1;2016;R$ 91.560,00;Manual;36131,4;Gasolina;23,54;1.4
+BMW;Serie 5;2014;R$ 85.456,00;Automatico;67068;Diesel;24,48;2.0
+BMW;Serie 6;2018;R$ 206.010,00;Automatico;14827;Gasolina;18,19;2.0
+BMW;Serie 5;2016;R$ 122.080,00;Automatico;62794;Diesel;21,85;3.0
+BMW;Serie 1;2017;R$ 97.282,50;Automatico;26676;Diesel;30,77;1.5
+BMW;Serie 7;2014;R$ 110.635,00;Automatico;39554;Diesel;21,42;3.0
+BMW;Serie 5;2016;R$ 113.687,00;Automatico;35309;Diesel;25,55;2.0
+BMW;Serie 5;2017;R$ 122.080,00;Automatico;38538;Diesel;25,55;2.0
+BMW;Serie 2;2018;R$ 123.987,50;Manual;10401;Gasolina;22,23;1.5
+BMW;Serie 4;2017;R$ 108.727,50;Manual;42668;Diesel;26,69;2.0
+BMW;Serie 5;2016;R$ 108.727,50;Automatico;36099;Diesel;29,29;2.0
+Mercedes ;Classe C;2020;R$ 232.676,85;Automatico;1930,8;Diesel;25,54;2.0
+Mercedes ;Classe C;2020;R$ 228.816,07;Automatico;1609;Gasolina;23,54;1.5
+Mercedes ;Classe C;2020;R$ 289.169,37;Automatico;804,5;Diesel;24,48;2.0
+Mercedes ;Classe C;2019;R$ 231.944,37;Automatico;8045;Diesel;18,19;2.0
+Mercedes ;Classe C;2019;R$ 228.129,37;Automatico;7240,5;Diesel;21,85;2.0
+Mercedes ;Classe C;2020;R$ 236.522,37;Automatico;1609;Diesel;30,77;2.0
+Mercedes ;Classe C;2020;R$ 274.672,37;Automatico;804,5;Diesel;21,42;2.0
+Mercedes ;Classe C;2019;R$ 289.863,70;Automatico;2271,91;Gasolina;25,55;3.0
+Mercedes ;Classe C;2019;R$ 221.193,70;Automatico;5742,52;Diesel;25,55;2.0
+Mercedes ;Classe C;2019;R$ 221.193,70;Automatico;5848,72;Diesel;22,23;2.0
+Ford;Focus;2016;R$ 61.040,00;Manual;62512,87;Gasolina;24,53;1.0
+Ford;Focus;2019;R$ 102.242,00;Manual;19230,77;Gasolina;24,53;1.0
+Ford;Focus;2019;R$ 111.398,00;Manual;35626,48;Gasolina;23,54;1.5
+Ford;Focus;2016;R$ 72.103,50;Manual;23409,34;Gasolina;28,6;1.6
+Ford;Focus;2015;R$ 76.292,37;Manual;11279,09;Gasolina;28,6;1.6
+Ford;Focus;2016;R$ 81.633,37;Automatico;43114,76;Gasolina;25,97;1.0
+Ford;Focus;2018;R$ 98.037,87;Manual;25949,95;Gasolina;25,97;1.0
+Ford;Focus;2020;R$ 190.742,37;Manual;7884,1;Gasolina;14,66;2.3
+Ford;Focus;2018;R$ 91.552,37;Manual;49803,38;Gasolina;25,55;1.5
+Ford;Focus;2019;R$ 148.785,00;Manual;4827;Diesel;31,58;1.5
+Ford;Fiesta;2017;R$ 91.560,00;Automatico;25653,9;Gasolina;24,53;1.0
+Ford;Fiesta;2019;R$ 133.525,00;Manual;16830,14;Gasolina;17,13;1.5
+Ford;Fiesta;2019;R$ 125.895,00;Automatico;2384,54;Gasolina;20,7;1.0
+Ford;Kuga;2019;R$ 194.565,00;Automatico;11092,45;Diesel;17,94;2.0
+Ford;Kuga;2018;R$ 137.332,37;Semi-Auto;14484,22;Diesel;23,08;2.0
+Ford;Kuga;2018;R$ 144.962,37;Semi-Auto;14432,73;Diesel;25,04;1.5
+Ford;EcoSport;2018;R$ 103.005,00;Manual;19412,59;Gasolina;23,08;1.0
+Ford;EcoSport;2020;R$ 152.600,00;Manual;897,82;Gasolina;22,66;1.0
+Ford;EcoSport;2017;R$ 66.381,00;Manual;69317,33;Gasolina;19,04;1.5
+Ford;C-MAX;2018;R$ 90.026,37;Manual;38294,2;Diesel;29,29;1.5
+Hyundai ;I20;2017;R$ 61.032,37;Manual;27846,96;Gasolina;25,04;1.2
+Hyundai ;Tucson;2016;R$ 110.627,37;Automatico;40599,9;Diesel;18,49;2.0
+Hyundai ;Tucson;2016;R$ 86.974,37;Manual;60944,09;Diesel;26,23;1.7
+Hyundai ;I10;2016;R$ 49.587,37;Manual;38276,5;Gasolina;25,55;1.0
+Hyundai ;IX35;2015;R$ 77.818,37;Manual;53381,79;Diesel;21,85;2.0
+Hyundai ;I10;2015;R$ 46.916,87;Manual;67014,85;Gasolina;25,55;1.0
+Hyundai ;I20;2015;R$ 51.876,37;Manual;63631,12;Gasolina;23,55;1.2
+Hyundai ;Tucson;2016;R$ 108.338,37;Automatico;48752,7;Diesel;24,48;1.7
+Hyundai ;I30;2018;R$ 79.344,37;Automatico;61273,94;Gasolina;21,85;1.4
+Hyundai ;Tucson;2016;R$ 92.803,69;Manual;33811,53;Diesel;26,23;1.7
+Mercedes ;SLK;2005;R$ 39.676,00;Automatico;101367;Gasolina;13,64;1.8
+Mercedes ;Classe A;2020;R$ 251.637,40;Automatico;975,05;Gasolina;15,22;2.0
+Mercedes ;Classe A;2020;R$ 205.857,40;Automatico;1609;Diesel;26,69;1.5
+Mercedes ;Classe A;2020;R$ 214.616,64;Automatico;4123,87;Gasolina;20,36;1.3
+Mercedes ;Classe E;2015;R$ 158.467,47;Automatico;35195,27;Diesel;21,85;3.0
+Mercedes ;Classe E;2017;R$ 169.920,10;Automatico;21557,38;Diesel;22,23;3.0
+Mercedes ;Classe E;2019;R$ 187.247,83;Automatico;16538,91;Diesel;28,61;2.0
+Mercedes ;Classe GLC;2019;R$ 518.687,40;Automatico;8849,5;Gasolina;9,22;4.0
+Mercedes ;Classe GLC;2019;R$ 271.711,93;Automatico;42080,18;Diesel;19,38;3.0
+Mercedes ;Classe GLC;2018;R$ 234.103,66;Automatico;23357,85;Diesel;24,02;2.1
+Skoda;Octavia;2017;R$ 80.496,50;Manual;40627,25;Gasolina;23,08;1.4
+Skoda;Citigo;2018;R$ 62.566,00;Manual;2033,78;Gasolina;28,61;1.0
+Skoda;Octavia;2019;R$ 119.409,50;Automatico;10981,43;Diesel;28,61;2.0
+Skoda;Yeti Outdoor;2015;R$ 106.820,00;Automatico;45745,48;Diesel;21,85;2.0
+Skoda;Superb;2019;R$ 140.010,50;Manual;17557,41;Gasolina;17,38;1.5
+Skoda;Yeti Outdoor;2017;R$ 101.097,50;Automatico;75631,05;Diesel;21,85;2.0
+Skoda;Superb;2019;R$ 116.357,50;Manual;23893,65;Gasolina;17,38;1.5
+Skoda;Octavia;2019;R$ 144.588,50;Automatico;9412,65;Diesel;21,42;2.0
+Skoda;Kodiaq;2019;R$ 228.137,00;Automatico;4236,5;Gasolina;13,35;2.0
+Skoda;Octavia;2017;R$ 144.893,70;Manual;32180;Gasolina;18,49;2.0
+Toyota;GT86;2016;R$ 122.080,00;Manual;38759,2;Gasolina;15,38;2.0
+Toyota;GT86;2017;R$ 122.041,85;Manual;29951,54;Gasolina;15,38;2.0
+Toyota;GT86;2015;R$ 106.804,74;Manual;44197,62;Gasolina;15,38;2.0
+Toyota;Yaris;2019;R$ 106.820,00;Automatico;10974,99;Gasolina;20,36;1.5
+Toyota;Yaris;2018;R$ 82.022,50;Manual;22526;Gasolina;25,04;1.5
+Toyota;Yaris;2016;R$ 87.745,00;Automatico;51344,8;Hibrido;33,15;1.5
+Toyota;Aygo;2017;R$ 70.577,50;Manual;7102,13;Hibrido;29,29;1.0
+Toyota;Aygo;2017;R$ 54.173,00;Manual;52052,76;Gasolina;29,29;1.0
+Toyota;Aygo;2016;R$ 49.595,00;Manual;42144,54;Gasolina;29,33;1.0
+Toyota;Aygo;2017;R$ 58.369,50;Manual;19523,61;Gasolina;29,29;1.0
+Chevrolet;Corsa;2018;R$ 60.162,55;Manual;15890,48;Gasolina;23,55;1,4
+Chevrolet;Corsa;2019;R$ 75.353,88;Manual;4022,5;Gasolina;23,08;1.4
+Chevrolet;Corsa;2017;R$ 91.521,85;Automatico;15486,63;Gasolina;20,36;1.4
+Chevrolet;Astra;2017;R$ 88.820,83;Automatico;34833,24;Gasolina;21,84;1.4
+Chevrolet;Astra;2019;R$ 100.716,00;Manual;24135;Gasolina;26,69;1.0
+Chevrolet;Astra;2014;R$ 46.031,79;Manual;64348,74;Gasolina;21,84;1.4
+Chevrolet;Mokka X;2019;R$ 98.427,00;Manual;12707,88;Gasolina;16,66;1.4
+Chevrolet;Mokka X;2019;R$ 108.346,00;Automatico;32046,45;Gasolina;15,81;1.4
+Chevrolet;Mokka X;2019;R$ 100.716,00;Manual;18796,34;Gasolina;16,66;1.4
+Chevrolet;Insignia;2016;R$ 81.633,37;Manual;25958;Diesel;30,77;1.6
